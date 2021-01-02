@@ -1,4 +1,4 @@
-package listainvertida;
+package listrevert;
 
 import java.util.List;
 

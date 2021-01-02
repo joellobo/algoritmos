@@ -1,4 +1,4 @@
-package listainvertida;
+package listrevert;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.junit.jupiter.api.Test;
+
+import listrevert.RevertList1;
 
 class RevertList1Test {
 
