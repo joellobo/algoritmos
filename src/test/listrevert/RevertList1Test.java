@@ -31,8 +31,10 @@ class RevertList1Test {
 		list.add("Student15");
 		
 		List<String> listreverted = RevertList1.revert(list);
+		
 		assertTrue("Student15" == listreverted.get(0));
 		assertTrue("Student1" == listreverted.get(14));
+		
 	}
 
 }
