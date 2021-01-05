@@ -7,8 +7,6 @@ import java.util.List;
 
 import org.junit.jupiter.api.Test;
 
-import listrevert.RevertList1;
-
 class RevertList1Test {
 
 	@Test
