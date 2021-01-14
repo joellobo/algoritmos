@@ -7,3 +7,4 @@
 - Pesquisa e Ordenação
 - Estrutura de Dados
 - Grafos
+- Programação Dinâmica
