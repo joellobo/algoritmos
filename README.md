@@ -8,3 +8,4 @@
 - Estrutura de Dados
 - Grafos
 - Programação Dinâmica
+- Algoritmos Geneticos
