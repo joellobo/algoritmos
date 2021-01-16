@@ -4,9 +4,12 @@
 - List Reverse
 - Factorial
 - Ordenar Lista
-- Pesquisa e Ordenação
+
+- Pesquisa
+- Ordenação
 - Estrutura de Dados
 - Grafos
 - Programação Dinâmica
-- Algoritmos Geneticos
+- Algoritmos Genéticos
 - Algoritmos de Compressão
+- Algoritmos Criptográficos
