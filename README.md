@@ -9,3 +9,4 @@
 - Grafos
 - Programação Dinâmica
 - Algoritmos Geneticos
+- Algoritmos de Compressão
