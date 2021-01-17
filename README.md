@@ -1,9 +1,6 @@
 # Algorithms
 
-- Secret Friend
-- List Reverse
-- Factorial
-- Ordenar Lista
+
 
 - Combinatória
 - Pesquisa
@@ -14,3 +11,11 @@
 - Algoritmos Genéticos
 - Algoritmos de Compressão
 - Algoritmos Criptográficos
+
+
+- Outros
+
+- Secret Friend
+- List Reverse
+- Factorial
+- Ordenar Lista
